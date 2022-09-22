@@ -24,6 +24,6 @@ Aqui viene el código
 ```
 ```
 		
-		//bloque de codigo...
+//bloque de codigo...
 		
-		```		
+```		
