@@ -19,7 +19,11 @@ Puedes empezar pinchando en los siguientes enlaces:
 
 ```java
 		
-Aqui viene el código
+>>> city = "Tokyo"
+>>> ctiy
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+NameError: name 'ctiy' is not defined
 
 ```
 ```
