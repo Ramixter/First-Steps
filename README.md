@@ -11,6 +11,6 @@ Este documento está hecho para aquellas personas que tengan interés en aprende
 
 Puedes empezar pinchando en los siguientes enlaces:
 
--[Primero](https://www.python.org/downloads/)
+- [Primero](https://www.python.org/downloads/)
  
 # Second-Steps
