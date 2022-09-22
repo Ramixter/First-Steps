@@ -8,5 +8,9 @@ Estos son los primeros pasos en Python, si quieres acompañarme en este camino t
 </p>
 
 Este documento está hecho para aquellas personas que tengan interés en aprender Python desde un nivel básico hasta niveles más avanzados con pequeños proyectos que se harán poco a poco a mendida que vayamos avanzando
+
+Puedes empezar pinchando en los siguientes enlaces:
+
+-[Primero](https://www.python.org/downloads/)
  
 # Second-Steps
