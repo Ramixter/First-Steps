@@ -26,13 +26,28 @@ File "<stdin>", line 1, in <module>
 NameError: name 'ctiy' is not defined
 
 ```
+
 ```
 		
 menu.py
 		
 ```	
 
-menu.py
+```
+		
+<details><summary>CLICK ME</summary>
+<p>
+
+#### We can hide anything, even code!
+
+```ruby
+   puts "Hello World"
+```
+
+</p>
+</details>
+		
+```	
 
 
 <details><summary>CLICK ME</summary>
