@@ -17,12 +17,12 @@ Puedes empezar pinchando en los siguientes enlaces:
 # Second-Steps
 
 
-```java
+```python
 		
 >>> city = "Tokyo"
 >>> ctiy
 Traceback (most recent call last):
-  File "<stdin>", line 1, in <module>
+File "<stdin>", line 1, in <module>
 NameError: name 'ctiy' is not defined
 
 ```
