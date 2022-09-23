@@ -73,7 +73,7 @@ The `.vscode/tasks.json` file defines custom tasks specific to working in this r
 
 
 
-```linux
+```console
     >>> import psutil
     >>>
     >>> psutil.cpu_times()
