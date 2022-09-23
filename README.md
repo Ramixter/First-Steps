@@ -71,10 +71,8 @@ You can install the [CodeQL for Visual Studio Code](https://marketplace.visualst
 
 The `.vscode/tasks.json` file defines custom tasks specific to working in this repository. To invoke one of these tasks, select the `Terminal | Run Task...` menu option, and then select the desired task from the dropdown. You can also invoke the `Tasks: Run Task` command from the command palette.
 
-https://github.com/Ramixter/First-Steps/blob/1caaa22a8b57f6a1466ef47de29d6cd7d123297c/menu.py
 
-RAMIRO
-----
+
 .. code-block:: python
 
     >>> import psutil
